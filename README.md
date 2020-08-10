@@ -1,2 +1,2 @@
 # Raceholic
-A simple basic game with AI opponent made in Unity.
+A preety simple and basic racing game with AI opponent made in Unity.
